@@ -1,7 +1,7 @@
-﻿1. song.song.H51EA9183.apk		童谣儿歌
-2. pinYin.H51F2FF02.apk			汉语拼音
-3. ipa.H52901E3A.apk			国际音标
-4. txtReader.H588120DC.apk		TXT阅读器
+﻿1. txtReader.H588120DC.apk		TXT阅读器
+2. song.song.H51EA9183.apk		童谣儿歌
+3. pinYin.H51F2FF02.apk			汉语拼音
+4. ipa.H52901E3A.apk			国际音标
 5. recitingWords.H5A9D9F2E.apk		背单词
 6. errBook.H506317EA.apk		错题仓库
 7. Calendar.H5943CB6F.apk		排课宝
