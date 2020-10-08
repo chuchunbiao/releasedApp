@@ -13,3 +13,9 @@
 13. M100.H56049661.apk			数学口算
 14. G2048.H59EDF40F.apk			2048游戏
 
+<<<<<<< Updated upstream
+
+这是修复的bug
+=======
+这是开发中的代码。。。。
+>>>>>>> Stashed changes
